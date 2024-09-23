@@ -1,1 +1,24 @@
-nginx:latest registry.cn-hangzhou.aliyuncs.com/gkzx2024/nginx:latest
+langgenius/dify-api:0.8.3 registry.cn-hangzhou.aliyuncs.com/pan2009/dify-api:0.8.3
+langgenius/dify-web:0.8.3 registry.cn-hangzhou.aliyuncs.com/pan2009/dify-api:0.8.3
+postgres:15-alpine registry.cn-hangzhou.aliyuncs.com/pan2009/postgres:15-alpine
+redis:6-alpine registry.cn-hangzhou.aliyuncs.com/pan2009/redis:6-alpine
+langgenius/dify-sandbox:0.2.9 registry.cn-hangzhou.aliyuncs.com/pan2009/langgenius/dify-sandbox:0.2.9
+ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/pan2009/ubuntu/squid:latest
+certbot/certbot registry.cn-hangzhou.aliyuncs.com/pan2009/certbot/certbot
+nginx:latest registry.cn-hangzhou.aliyuncs.com/pan2009/nginx:latest
+semitechnologies/weaviate:1.19.0 registry.cn-hangzhou.aliyuncs.com/pan2009/semitechnologies/weaviate:1.19.0
+langgenius/qdrant:v1.7.3 registry.cn-hangzhou.aliyuncs.com/pan2009/langgenius/qdrant:v1.7.3
+pgvector/pgvector:pg16 registry.cn-hangzhou.aliyuncs.com/pan2009/pgvector/pgvector:pg16
+tensorchord/pgvecto-rs:pg16-v0.3.0 registry.cn-hangzhou.aliyuncs.com/pan2009/tensorchord/pgvecto-rs:pg16-v0.3.0
+ghcr.io/chroma-core/chroma:0.5.1 registry.cn-hangzhou.aliyuncs.com/pan2009/ghcr.io/chroma-core/chroma:0.5.1
+container-registry.oracle.com/database/free:latest registry.cn-hangzhou.aliyuncs.com/pan2009/container-registry.oracle.com/database/free:latest
+quay.io/coreos/etcd:v3.5.5 registry.cn-hangzhou.aliyuncs.com/pan2009/quay.io/coreos/etcd:v3.5.5
+minio/minio:RELEASE.2023-03-20T20-16-18Z registry.cn-hangzhou.aliyuncs.com/pan2009/minio/minio:RELEASE.2023-03-20T20-16-18Z
+milvusdb/milvus:v2.3.1 registry.cn-hangzhou.aliyuncs.com/pan2009/milvusdb/milvus:v2.3.1
+opensearchproject/opensearch:latest registry.cn-hangzhou.aliyuncs.com/pan2009/opensearchproject/opensearch:latest
+opensearchproject/opensearch-dashboards:latest registry.cn-hangzhou.aliyuncs.com/pan2009/opensearchproject/opensearch-dashboards:latest
+myscale/myscaledb:1.6.4 registry.cn-hangzhou.aliyuncs.com/pan2009/myscale/myscaledb:1.6.4
+docker.elastic.co/elasticsearch/elasticsearch:8.14.3 registry.cn-hangzhou.aliyuncs.com/pan2009/docker.elastic.co/elasticsearch/elasticsearch:8.14.3
+docker.elastic.co/kibana/kibana:8.14.3 registry.cn-hangzhou.aliyuncs.com/pan2009/docker.elastic.co/kibana/kibana:8.14.3
+downloads.unstructured.io/unstructured-io/unstructured-api:latest registry.cn-hangzhou.aliyuncs.com/pan2009/downloads.unstructured.io/unstructured-io/unstructured-api:latest
+
