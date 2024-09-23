@@ -21,4 +21,3 @@ myscale/myscaledb:1.6.4 registry.cn-hangzhou.aliyuncs.com/pan2009/myscale/myscal
 docker.elastic.co/elasticsearch/elasticsearch:8.14.3 registry.cn-hangzhou.aliyuncs.com/pan2009/docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 docker.elastic.co/kibana/kibana:8.14.3 registry.cn-hangzhou.aliyuncs.com/pan2009/docker.elastic.co/kibana/kibana:8.14.3
 downloads.unstructured.io/unstructured-io/unstructured-api:latest registry.cn-hangzhou.aliyuncs.com/pan2009/downloads.unstructured.io/unstructured-io/unstructured-api:latest
-
